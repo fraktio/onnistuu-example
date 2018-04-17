@@ -1,7 +1,17 @@
 
-# onnistuu.fi integration example
+# Deprecation notice
 
-API documentation available at https://esittely.onnistuu.fi/api-dokumentaatio/
+This example is for the older Visma Sign API v0.
+
+We encourage you to look into the API v1:
+
+https://sign.visma.net/api/docs/v1/
+
+https://gitlab.com/vismasign/vismasign-api-examples/
+
+# Visma Sign APIv0 integration example
+
+API documentation available at https://allekirjoitus.visma.fi/download/visma_sign-api.pdf
 
 ## Features
 
@@ -12,7 +22,7 @@ API documentation available at https://esittely.onnistuu.fi/api-dokumentaatio/
 ## This example is
 
 - not to be used as a basis for production forms
-- not a comprehensive look into onnistuu.fi api functionality
+- not a comprehensive look into Visma Sign api functionality
 - not rigorously tested
 - only tested on linux environments
 
